@@ -1,0 +1,91 @@
+transaction_id,listing_id,buyer_name,buyer_email,price,date
+1,1,Luke Skywalker,luke.skywalker@tatooine.com,2808.44,2025-09-08
+2,2,Darth Vader,darth.vader@empire.gov,1098702.57,2026-03-13
+3,3,Leia Organa,leia.organa@alderaan.net,2383.68,2026-05-11
+4,8,Han Solo,han.solo@millenniumfalcon.com,1925.92,2026-04-02
+5,11,Yoda,yoda@dagobah.sw,2817.90,2026-06-06
+6,17,Obi-Wan Kenobi,obiwan.kenobi@jedimaster.org,811006.45,2026-05-05
+7,20,Padmé Amidala,padme.amidala@naboo.gov,804127.60,2026-06-13
+8,21,Anakin Skywalker,anakin.skywalker@chosenone.com,882370.20,2026-02-05
+9,22,Ahsoka Tano,ahsoka.tano@clonewars.net,4253.10,2026-01-16
+10,26,Rey Palpatine,rey@jakku.space,6101.89,2026-05-24
+11,27,Kylo Ren,kylo.ren@firstorder.com,4455.49,2025-11-11
+12,30,Finn,finn@resistance.org,5642.48,2025-08-13
+13,32,Poe Dameron,poe.dameron@blackleader.net,7495.92,2026-03-17
+14,34,Mace Windu,mace.windu@council.jedi,170414.73,2025-12-10
+15,36,Qui-Gon Jinn,quigon.jinn@livingforce.com,525595.06,2026-05-28
+16,37,Jar Jar Binks,jarbinks@naboo.sw,5738.95,2025-08-12
+17,38,Lando Calrissian,lando@cloudcity.biz,372841.07,2025-08-26
+18,41,Chewbacca,chewie@millenniumfalcon.com,4044.78,2026-02-28
+19,45,C-3PO,c3po@protocol.droid,4926.46,2026-01-24
+20,46,R2-D2,r2d2@astromech.net,4962.69,2025-07-27
+21,48,BB-8,bb8@resistance.org,5149.55,2025-09-14
+22,49,Grand Moff Tarkin,tarkin@deathstar.empire,484926.83,2025-10-15
+23,52,Boba Fett,boba.fett@mandalorian.com,813070.91,2025-10-21
+24,53,Jango Fett,jango.fett@kamino.clones,8917.71,2026-05-24
+25,56,Captain Phasma,phasma@firstorder.net,7033.97,2026-01-03
+26,57,General Grievous,grievous@separatist.org,154960.42,2026-04-14
+27,58,Count Dooku,dooku@serenno.com,2158.94,2026-03-15
+28,66,Darth Maul,maul@nightsisters.net,4586.47,2026-05-10
+29,67,Jyn Erso,jyn.erso@rogueone.org,158216.71,2025-09-14
+30,68,Cassian Andor,cassian.andor@rebellion.com,913971.99,2025-12-19
+31,69,K-2SO,k2so@imperial.droid,5411.68,2025-10-23
+32,70,Chirrut Îmwe,chirrut@whills.net,5078.89,2026-04-26
+33,72,Baze Malbus,baze@guardians.com,5762.28,2026-03-17
+34,73,Saw Gerrera,saw@partisans.org,1320.42,2026-04-26
+35,77,Wedge Antilles,wedge@roguesquadron.net,827579.87,2025-08-13
+36,80,Admiral Ackbar,ackbar@moncalamari.com,806210.54,2026-02-21
+37,85,Mon Mothma,mothma@chandrila.gov,486805.06,2025-11-10
+38,86,Hera Syndulla,hera@phoenix.net,512114.37,2026-04-25
+39,87,Kanan Jarrus,kanan@rebel.jedi,855731.14,2025-08-09
+40,88,Ezra Bridger,ezra@lothal.com,4133.14,2026-06-04
+41,89,Sabine Wren,sabine@mandalore.net,842720.68,2025-08-02
+42,90,Zeb Orrelios,zeb@lasat.org,3932.26,2025-10-11
+43,97,Moff Gideon,gideon@darktroopers.com,267222.98,2026-04-08
+44,98,Din Djarin,mandalorian@bountyhunter.net,872860.71,2026-01-27
+45,103,Grogu,grogu@thechild.com,3488.21,2025-08-30
+46,105,Bo-Katan Kryze,bokatan@mandalore.net,5689.61,2025-07-16
+47,108,Fennec Shand,fennec@assassin.com,376837.03,2026-04-18
+48,113,Cara Dune,cara.dune@shocktrooper.org,818379.42,2025-11-22
+49,114,Greef Karga,greef@bountyhuntersguild.net,282597.68,2026-01-06
+50,117,IG-11,ig11@droid.bounty,6450.70,2025-11-27
+51,120,Paz Vizsla,paz@heavy.mandalorian,359408.81,2025-12-31
+52,122,The Armorer,armorer@mandalore.net,975.74,2025-10-26
+53,123,Asajj Ventress,asajj@nightsister.com,6267.93,2026-06-30
+54,124,Savage Opress,savage@zabrak.org,2847.05,2026-04-16
+55,125,Mother Talzin,talzin@nightsisters.net,449626.90,2025-07-29
+56,127,Qira,qira@crimsondawn.com,3804.36,2026-04-11
+57,128,Dryden Vos,dryden.vos@crimson.org,4551.56,2025-10-11
+58,129,Enfys Nest,enfys@cloudriders.net,801.35,2026-01-20
+59,131,Rose Tico,rose@resistance.tech,4695.89,2025-11-21
+60,132,Hux,hux@firstorder.mil,506356.18,2025-07-04
+61,134,Snoke,snoke@unknownregions.com,4892.62,2025-11-11
+62,137,Zam Wesell,zam@clawdite.assassin,5498.64,2025-05-29
+63,142,Plo Koon,plo.koon@keldor.jedi,3629.53,2025-07-06
+64,143,Kit Fisto,kit.fisto@nautolan.net,291347.41,2026-02-11
+65,144,Aayla Secura,aayla@rutian.twilek,4236.77,2026-06-27
+66,146,Shaak Ti,shaak.ti@togruta.jedi,4192.32,2025-08-24
+67,147,Luminara Unduli,luminara@mirialan.org,9067.69,2026-03-21
+68,148,Barriss Offee,barriss@mirialan.net,1346418.53,2026-01-15
+69,151,Coleman Trebor,coleman@vurk.jedi,169399.09,2026-01-14
+70,153,Ki-Adi-Mundi,mundi@cerean.jedi,695032.43,2026-06-27
+71,157,Depa Billaba,depa@chancellor.guard,3417.49,2026-04-02
+72,158,Oppo Rancisis,oppo@thisspias.jedi,825540.98,2026-04-19
+73,159,Even Piell,even@lannik.jedi,3176.19,2026-04-17
+74,161,Saesee Tiin,saesee@iktotchi.jedi,138725.99,2025-09-08
+75,162,Adi Gallia,adi@tholothian.jedi,1231523.57,2026-03-18
+76,164,Stass Allie,stass@tholothian.net,2009.93,2025-06-09
+77,166,Pong Krell,pong.krell@besalisk.com,6804.09,2026-03-30
+78,169,Jocasta Nu,jocasta@archives.jedi,4362.69,2025-09-16
+79,174,Tera Sinube,tera@cosian.jedi,3353.28,2025-07-24
+80,175,Yaddle,yaddle@female.species,1365062.27,2026-03-28
+81,176,Bendu,bendu@theones.who.came.before,1083232.09,2025-08-06
+82,177,Nien Nunb,nien@sullust.pilot,5208.20,2026-04-03
+83,178,Pelli Motto,pelli@mos.eisley.tech,4334.09,2025-07-29
+84,184,Kuiil,kuiil@ugnaught.net,810050.15,2025-10-25
+85,185,Mayfeld,mayfeld@ex-sharpshooter.com,6074.69,2026-05-24
+86,189,Migs Mayfeld,migs@imperial.net,504164.15,2025-08-05
+87,190,Valin Hess,hess@morningstar.com,5601.34,2025-11-28
+88,193,Moroff,moroff@gigoran.mercenary,902456.45,2025-09-01
+89,195,Benthic,benthic@twilek.partisan,4821.95,2025-11-26
+90,197,Edrio,edrio@twin.tubes,3622.95,2025-10-11
