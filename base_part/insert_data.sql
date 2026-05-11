@@ -1583,3 +1583,11 @@ INSERT INTO "transactions" ("transaction_id", "listing_id", "buyer_name", "buyer
 	(88, 193, 'Moroff', 'moroff@gigoran.mercenary', 902456.45, '2025-09-01'),
 	(89, 195, 'Benthic', 'benthic@twilek.partisan', 4821.95, '2025-11-26'),
 	(90, 197, 'Edrio', 'edrio@twin.tubes', 3622.95, '2025-10-11');
+
+SELECT setval('price_history_history_id_seq', (SELECT COALESCE(MAX(history_id), 1) FROM price_history));
+SELECT setval('transactions_transaction_id_seq', (SELECT COALESCE(MAX(transaction_id), 1) FROM transactions));
+SELECT setval('listings_listing_id_seq', (SELECT COALESCE(MAX(listing_id), 1) FROM listings));
+SELECT setval('properties_property_id_seq', (SELECT COALESCE(MAX(property_id), 1) FROM properties));
+SELECT setval('agents_agent_id_seq', (SELECT COALESCE(MAX(agent_id), 1) FROM agents));
+SELECT setval('addresses_address_id_seq', (SELECT COALESCE(MAX(address_id), 1) FROM addresses));
+SELECT setval('neighborhoods_neighborhood_id_seq', (SELECT COALESCE(MAX(neighborhood_id), 1) FROM neighborhoods));
